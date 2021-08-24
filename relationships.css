@@ -1,0 +1,12 @@
+p + p {
+  margin-top: 2rem;
+}
+
+p + ul,
+ul + p {
+  margin-top: 1rem;
+}
+
+img + p {
+  margin-top: 5rem;
+}
