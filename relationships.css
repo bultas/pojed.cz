@@ -2,6 +2,10 @@ p + p {
   margin-top: 2rem;
 }
 
+p + p.signature {
+  margin-top: 1rem;
+}
+
 p + ul {
   margin-top: 1rem;
 }
