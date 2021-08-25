@@ -2,11 +2,14 @@ p + p {
   margin-top: 2rem;
 }
 
-p + ul,
-ul + p {
+p + ul {
   margin-top: 1rem;
 }
 
-img + p {
+ul + p {
   margin-top: 5rem;
+}
+
+.logo + p {
+  margin-top: 4rem;
 }

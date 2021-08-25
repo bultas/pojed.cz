@@ -46,10 +46,15 @@ main ul {
 }
 
 footer {
-  background-color: #ffeddc;
+  background-color: #fff5eb;
   padding: 2rem;
 }
 
+footer span {
+  display: inline-block;
+}
+
 .logo {
-  max-width: 10rem;
+  max-width: 20rem;
+  margin-left: -1rem;
 }
